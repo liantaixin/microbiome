@@ -1,0 +1,12 @@
+source1	source2	target	value
+W	Water	Gut & Hemolymph	63
+W	Water	Extinction1	29
+W	EXist1	WW	9
+FileW	EXist1	Gut & Hemolymph	26
+FileW	EXist1	New1	10
+S	Sediment	Gut & Hemolymph	48
+S	Sediment	Extinction2	46
+S	EXist2	XX	37
+FileS	EXist2	Gut & Hemolymph	39
+FileS	EXist2	New2	8
+X	File	Gut & Hemolymph	120
